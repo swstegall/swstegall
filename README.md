@@ -25,7 +25,6 @@ A big chunk of my free time goes toward preserving **FINAL FANTASY XIV v1.23b** 
 - 🚀 **[Garlemald-Client](https://github.com/swstegall/Garlemald-Client)** — A cross-platform Rust launcher for FFXIV v1.23b private servers (macOS / Linux / Windows).
 - 🔬 **[meteor-decomp](https://github.com/swstegall/meteor-decomp)** & **[decomp-agents](https://github.com/swstegall/decomp-agents)** — Decompilation tooling for digging into the original client.
 - 🍎 **[XIV-1.0-Apple-Silicon-Installer](https://github.com/swstegall/XIV-1.0-Apple-Silicon-Installer)** — Getting the 1.0 client running on Apple Silicon.
-- 🎨 **[Dyemaxer](https://github.com/swstegall/Dyemaxer)** · 🍕 **[Paissa-Pizza](https://github.com/swstegall/Paissa-Pizza)** · 🐳 **[nael](https://github.com/swstegall/nael)** — Smaller utilities around the FFXIV ecosystem.
 
 ### 🛠️ Tech I work with
 
