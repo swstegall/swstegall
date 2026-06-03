@@ -26,6 +26,8 @@ A big chunk of my free time goes toward preserving **FINAL FANTASY XIV v1.23b** 
 - 🔬 **[meteor-decomp](https://github.com/swstegall/meteor-decomp)** & **[decomp-agents](https://github.com/swstegall/decomp-agents)** — Decompilation tooling for digging into the original client.
 - 🍎 **[XIV-1.0-Apple-Silicon-Installer](https://github.com/swstegall/XIV-1.0-Apple-Silicon-Installer)** — Getting the 1.0 client running on Apple Silicon.
 
+🌐 **It all lives at [garlemaldsoftware.com](https://www.garlemaldsoftware.com)** — docs, idiot-proof quick-start guides, and downloads for every project in one place.
+
 ### 🛠️ Tech I work with
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
