@@ -43,8 +43,16 @@ This profile takes some inspiration from **[yumiaura](https://github.com/yumiaur
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swstegall&show_icons=true&theme=transparent&hide_border=true" alt="Sam's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swstegall&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swstegall&theme=transparent" alt="Sam's GitHub profile summary">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swstegall&theme=transparent" alt="Top languages by repo" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swstegall&theme=transparent" alt="Most-committed languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=swstegall&theme=transparent&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
