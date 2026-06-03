@@ -52,7 +52,7 @@ This profile takes some inspiration from **[yumiaura](https://github.com/yumiaur
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swstegall&theme=transparent&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=swstegall&hide_border=true&background=00000000&ring=6F42C1&fire=6F42C1&currStreakNum=6F42C1&currStreakLabel=6F42C1&sideNums=6F42C1&sideLabels=8B8B8B&dates=8B8B8B&stroke=6F42C1&excludeDaysLabel=8B8B8B" alt="GitHub streak">
 </p>
 
 ---
