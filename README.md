@@ -9,6 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=swstegall&label=Profile%20views&color=6f42c1&style=flat" alt="Profile views">
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/GUDC2pDNGD"><img src="https://img.shields.io/badge/Bahamut-join%20the%20Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join the Bahamut Discord"></a>
+</p>
+
+<p align="center">
+  <b>Bahamut is the new home of the FINAL FANTASY XIV 1.23b development I am working on moving forward.</b><br>
+  If you'd like to participate as a developer or tester, or try our hosted server, <a href="https://discord.gg/GUDC2pDNGD">join our Discord</a>.
+</p>
+
 ---
 
 ### 👨‍💻 About me
